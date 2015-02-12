@@ -13,11 +13,11 @@ class push extends REST_Controller {
 
 	function  add_deviceid_post(){
 		$serviceName = 'add_deviceid';
-		$ip['user_id'] = $this->input->post('user_id');
+		dddd$ip['user_id'] = $this->input->post('user_id');
 	//	$ip['device_id'] = $this->input->post('device_id');
 		$ip['device_token'] = $this->input->post('device_token');
 		$ipJson = json_encode($ip);
-		if (empty($ip['user_id']) || empty($ip['device_token']) ) {
+		ccccif (empty($ip['user_id']) || empty($ip['device_token']) ) {
 			$data['message'] = 'Required fields are empty';
 			// $retVals = $this->privue_lib->return_status('error', $serviceName, $data, $ipJson);
 			$retVals = $this->seekahoo_lib->return_status('error', $serviceName, $data, $ipJson);
