@@ -1,4 +1,4 @@
-<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+cxzc<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 require('application/libraries/REST_Controller.php');  
 
