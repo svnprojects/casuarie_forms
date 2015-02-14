@@ -31,3 +31,34 @@ E:\Divakar\Divakar\Windows Apps\WPF Causerie Tool\CauserieForm\CauserieForm\obj\
 E:\Divakar\Divakar\Windows Apps\WPF Causerie Tool\CauserieForm\CauserieForm\obj\x86\Debug\CauserieForm.csproj.GenerateResource.Cache
 E:\Divakar\Divakar\Windows Apps\WPF Causerie Tool\CauserieForm\CauserieForm\obj\x86\Debug\CauserieForm.exe
 E:\Divakar\Divakar\Windows Apps\WPF Causerie Tool\CauserieForm\CauserieForm\obj\x86\Debug\CauserieForm.pdb
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\bin\Debug\CauserieForm.exe
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\bin\Debug\CauserieForm.pdb
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\Accidentsimmediateminutes.baml
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\Adequacyandconservationtest.baml
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\Consignmentcertificate.baml
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\Formtosignatthebeginningoftheproject.baml
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\Hazardoussituationorincidentrecord.baml
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\HSEQCauserie.baml
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\MainWindow.baml
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\PreventionPlan.baml
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\RiskAnalysis.baml
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\Securityimprovementaudit.baml
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\Securitymaterialinventoryandfollow-up.baml
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\Accidentsimmediateminutes.g.cs
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\Adequacyandconservationtest.g.cs
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\Consignmentcertificate.g.cs
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\Formtosignatthebeginningoftheproject.g.cs
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\Hazardoussituationorincidentrecord.g.cs
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\HSEQCauserie.g.cs
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\MainWindow.g.cs
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\PreventionPlan.g.cs
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\RiskAnalysis.g.cs
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\Securityimprovementaudit.g.cs
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\Securitymaterialinventoryandfollow-up.g.cs
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\App.g.cs
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\CauserieForm_MarkupCompile.cache
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\CauserieForm.g.resources
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\CauserieForm.Properties.Resources.resources
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\CauserieForm.csproj.GenerateResource.Cache
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\CauserieForm.exe
+D:\Saravanan\casuarie_forms\WPF\CauserieForm\CauserieForm\obj\x86\Debug\CauserieForm.pdb
